@@ -10,7 +10,6 @@
 ## Author
 | Name      | E-mail |
 | --- | --- |
-| Dave Costakos | david.costakos@redhat.com |
 | Kevin Morey | kmorey@redhat.com |
 
 ## Packager
